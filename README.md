@@ -4,5 +4,5 @@
 ## Профессиональная переподготовка и повышение квалификации
 | Номер | Специальность     | Учебная организация                                              |
 |-------|-------------------|------------------------------------------------------------------|
-|1      |[Аналитик данных](https://github.com/AlexeyProsekov/Diplom_Sertifikat/blob/ccb3a3491eff0679e18fa2fe0bf322ef02dbdd0b/ProsekovAV_Data%20Scientist_Sber.png)|Корпоративный Университет Сбербанка               |
+|1      |[Data Scientist](https://github.com/AlexeyProsekov/Diplom_Sertifikat/blob/ccb3a3491eff0679e18fa2fe0bf322ef02dbdd0b/ProsekovAV_Data%20Scientist_Sber.png)|Корпоративный Университет Сбербанка               |
 
